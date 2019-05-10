@@ -1,0 +1,49 @@
+@model Dominio.Entidades.Professor
+
+<div class="row header">
+  <div class="col-md-12">
+    <h3>Professor</h3>
+    <a href="/Professor" class="btn btn-primary">Voltar</a>
+  </div>
+</div>
+<br />
+<div class="row form-wrapper">
+  <div class="col-md-12">
+    <form
+      id="form"
+      class="form-horizontal"
+      asp-action="Salvar"
+      asp-controller="Professor"
+      data-ajax="true"
+      data-ajax-method="POST"
+      data-ajax-failure="formOnFail"
+      data-ajax-success="window.location = '/Professor'"
+      asp-anti-forgery
+    >
+      <input type="hidden" class="form-control" asp-for="Id" />
+      <div class="form-group">
+        <label class="col-md-2 control-label">Nome</label>
+        <div class="col-md-8">
+          <input type="text" class="form-control" asp-for="Nome" />
+          <span asp-validation-for="Nome" class="text-danger"></span>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="col-md-2 control-label">Disciplinas</label>
+        <div class="col-md-8">
+          <select
+            class="form-control"
+            asp-for="Disciplinas"
+            asp-items='@(new SelectList(@ViewBag.Disciplinas,"Id","Nome"))'
+          >
+          </select>
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="col-md-offset-2 col-md-8">
+          <button class="btn btn-success">Salvar</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

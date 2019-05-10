@@ -1,0 +1,9 @@
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/bin/Debug/netstandard2.0/Dominio.deps.json
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/bin/Debug/netstandard2.0/Dominio.dll
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/bin/Debug/netstandard2.0/Dominio.pdb
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/obj/Debug/netstandard2.0/Dominio.csprojAssemblyReference.cache
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/obj/Debug/netstandard2.0/Dominio.csproj.CoreCompileInputs.cache
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfoInputs.cache
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfo.cs
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/obj/Debug/netstandard2.0/Dominio.dll
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/obj/Debug/netstandard2.0/Dominio.pdb

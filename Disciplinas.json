@@ -1,0 +1,1142 @@
+[
+  {
+    "Id": "1",
+    "Nome": "ECONOMIA E MERCADO",
+    "CursoId": null
+  },
+  {
+    "Id": "2",
+    "Nome": "INSTITUIÇÕES DE DIREITO",
+    "CursoId": null
+  },
+  {
+    "Id": "3",
+    "Nome": "COMP. HUMANO NAS ORG.",
+    "CursoId": null
+  },
+  {
+    "Id": "4",
+    "Nome": "ADM. REL. CLIENTE",
+    "CursoId": null
+  },
+  {
+    "Id": "5",
+    "Nome": "GEOP. REG. E INTERAG.",
+    "CursoId": null
+  },
+  {
+    "Id": "6",
+    "Nome": "ESTRUT. ORGANIZACIONAL",
+    "CursoId": null
+  },
+  {
+    "Id": "7",
+    "Nome": "ANAL. DEM. FINACEIRA",
+    "CursoId": null
+  },
+  {
+    "Id": "8",
+    "Nome": "MATEM. FINANCEIRA ",
+    "CursoId": null
+  },
+  {
+    "Id": "9",
+    "Nome": "GESTÃO SUP. LOGÍSTICA",
+    "CursoId": null
+  },
+  {
+    "Id": "10",
+    "Nome": "ESTATÍSTICA",
+    "CursoId": null
+  },
+  {
+    "Id": "11",
+    "Nome": "ADM. FINANCEIRA",
+    "CursoId": null
+  },
+  {
+    "Id": "12",
+    "Nome": "ELAB. E ANÁL. PROJETO",
+    "CursoId": null
+  },
+  {
+    "Id": "13",
+    "Nome": "RESP. SOCIAL ",
+    "CursoId": null
+  },
+  {
+    "Id": "14",
+    "Nome": "GESTÃO DAS INF. ",
+    "CursoId": null
+  },
+  {
+    "Id": "15",
+    "Nome": "ADM. ESTRATÉGICA",
+    "CursoId": null
+  },
+  {
+    "Id": "16",
+    "Nome": "PROCESSOS DECISÓRIOS ",
+    "CursoId": null
+  },
+  {
+    "Id": "17",
+    "Nome": "ADM. INTEGRADA",
+    "CursoId": null
+  },
+  {
+    "Id": "18",
+    "Nome": "HIST. GERAL DA ARTE ",
+    "CursoId": null
+  },
+  {
+    "Id": "19",
+    "Nome": "DESENHO REPR. OBS. ",
+    "CursoId": null
+  },
+  {
+    "Id": "20",
+    "Nome": "PROJ. ARQUITETONICO",
+    "CursoId": null
+  },
+  {
+    "Id": "21",
+    "Nome": "ERGONOMIA ",
+    "CursoId": null
+  },
+  {
+    "Id": "22",
+    "Nome": "RESIST. MATERIAIS ",
+    "CursoId": null
+  },
+  {
+    "Id": "23",
+    "Nome": "INFORM. APLICADA",
+    "CursoId": null
+  },
+  {
+    "Id": "24",
+    "Nome": "THAU",
+    "CursoId": null
+  },
+  {
+    "Id": "25",
+    "Nome": "PROJ. URB. PAIS ",
+    "CursoId": null
+  },
+  {
+    "Id": "26",
+    "Nome": "PROJ. ARQ. ",
+    "CursoId": null
+  },
+  {
+    "Id": "27",
+    "Nome": "EP. SAÚDE PÚBLICA",
+    "CursoId": null
+  },
+  {
+    "Id": "28",
+    "Nome": "SAN. ANAL. AMB. ",
+    "CursoId": null
+  },
+  {
+    "Id": "29",
+    "Nome": "BIOETICA EM SAÚDE",
+    "CursoId": null
+  },
+  {
+    "Id": "30",
+    "Nome": "BASES ANAL. LAB. ",
+    "CursoId": null
+  },
+  {
+    "Id": "31",
+    "Nome": "BIOSSEGURANÇA",
+    "CursoId": null
+  },
+  {
+    "Id": "32",
+    "Nome": "BIOF. APL. CIEN. BIO",
+    "CursoId": null
+  },
+  {
+    "Id": "33",
+    "Nome": "INTERF. HUM. COM. ",
+    "CursoId": null
+  },
+  {
+    "Id": "34",
+    "Nome": "DESENV. WEB.",
+    "CursoId": null
+  },
+  {
+    "Id": "35",
+    "Nome": "FISICA P COMP. ",
+    "CursoId": null
+  },
+  {
+    "Id": "36",
+    "Nome": "TOP. MAT. APLICADA",
+    "CursoId": null
+  },
+  {
+    "Id": "37",
+    "Nome": "TOP. AMB. WEB.",
+    "CursoId": null
+  },
+  {
+    "Id": "38",
+    "Nome": "DISP. MÓVEIS",
+    "CursoId": null
+  },
+  {
+    "Id": "39",
+    "Nome": "NOÇÕES DE DIREITO ",
+    "CursoId": null
+  },
+  {
+    "Id": "40",
+    "Nome": "BANCO DE DADOS ",
+    "CursoId": null
+  },
+  {
+    "Id": "41",
+    "Nome": "ALGEBRA LINEAR",
+    "CursoId": null
+  },
+  {
+    "Id": "42",
+    "Nome": "EST. E PROBAB.",
+    "CursoId": null
+  },
+  {
+    "Id": "43",
+    "Nome": "LING. PROG. ORIENT.OBS",
+    "CursoId": null
+  },
+  {
+    "Id": "44",
+    "Nome": "PARAD. DE LINGUAGEM ",
+    "CursoId": null
+  },
+  {
+    "Id": "45",
+    "Nome": "PSIC. JURÍDICA",
+    "CursoId": null
+  },
+  {
+    "Id": "46",
+    "Nome": "INST. JUD. E ÉTICA",
+    "CursoId": null
+  },
+  {
+    "Id": "47",
+    "Nome": "PORTUGUES JURÍDICO",
+    "CursoId": null
+  },
+  {
+    "Id": "48",
+    "Nome": "ECONOMIA ",
+    "CursoId": null
+  },
+  {
+    "Id": "49",
+    "Nome": "FILOSOFIA",
+    "CursoId": null
+  },
+  {
+    "Id": "50",
+    "Nome": "ORG. DO ESTADO",
+    "CursoId": null
+  },
+  {
+    "Id": "51",
+    "Nome": "T. DA EMPRESA",
+    "CursoId": null
+  },
+  {
+    "Id": "52",
+    "Nome": "ILIC./ CULPABILIDADE",
+    "CursoId": null
+  },
+  {
+    "Id": "53",
+    "Nome": "TEORIA GERAL PROCESSO",
+    "CursoId": null
+  },
+  {
+    "Id": "54",
+    "Nome": "FATOS N. JUR. ",
+    "CursoId": null
+  },
+  {
+    "Id": "55",
+    "Nome": "EXT. PUNIB. ",
+    "CursoId": null
+  },
+  {
+    "Id": "56",
+    "Nome": "TORIA G. PROC. PENAL",
+    "CursoId": null
+  },
+  {
+    "Id": "57",
+    "Nome": "PRC. COMUM",
+    "CursoId": null
+  },
+  {
+    "Id": "58",
+    "Nome": "BASES P. ADM. PÚBLICA",
+    "CursoId": null
+  },
+  {
+    "Id": "59",
+    "Nome": "REC. JUD. FAL. ",
+    "CursoId": null
+  },
+  {
+    "Id": "60",
+    "Nome": "DIR. OBRIGAÇÕES ",
+    "CursoId": null
+  },
+  {
+    "Id": "61",
+    "Nome": "C. S. P. EXEC. ",
+    "CursoId": null
+  },
+  {
+    "Id": "62",
+    "Nome": "P.P. PENAS",
+    "CursoId": null
+  },
+  {
+    "Id": "63",
+    "Nome": "T. ESPÉCIE",
+    "CursoId": null
+  },
+  {
+    "Id": "64",
+    "Nome": "DES. SUST.",
+    "CursoId": null
+  },
+  {
+    "Id": "65",
+    "Nome": "D.T.C. TRABALHO",
+    "CursoId": null
+  },
+  {
+    "Id": "66",
+    "Nome": "C.C. EMPRESA",
+    "CursoId": null
+  },
+  {
+    "Id": "67",
+    "Nome": "PR.PEN.PATR.",
+    "CursoId": null
+  },
+  {
+    "Id": "68",
+    "Nome": "C.T.U.",
+    "CursoId": null
+  },
+  {
+    "Id": "69",
+    "Nome": "P.P.I.A.P.",
+    "CursoId": null
+  },
+  {
+    "Id": "70",
+    "Nome": "DIR. CONS.",
+    "CursoId": null
+  },
+  {
+    "Id": "71",
+    "Nome": "E.T.E.P.",
+    "CursoId": null
+  },
+  {
+    "Id": "72",
+    "Nome": "D.I.P.",
+    "CursoId": null
+  },
+  {
+    "Id": "73",
+    "Nome": "DIR. FAMÍLIA",
+    "CursoId": null
+  },
+  {
+    "Id": "74",
+    "Nome": "CORP. MOTR. HUM.",
+    "CursoId": null
+  },
+  {
+    "Id": "75",
+    "Nome": "PRIMIEROS SOCORROS",
+    "CursoId": null
+  },
+  {
+    "Id": "76",
+    "Nome": "BIOESTATISTICA",
+    "CursoId": null
+  },
+  {
+    "Id": "77",
+    "Nome": "FIL.DIM.HIST.ED. FISICA",
+    "CursoId": null
+  },
+  {
+    "Id": "78",
+    "Nome": "CRESC. E DESNEV. HUMANO",
+    "CursoId": null
+  },
+  {
+    "Id": "79",
+    "Nome": "APREND. DESENV. MOTOR",
+    "CursoId": null
+  },
+  {
+    "Id": "80",
+    "Nome": "SUP.BASICO DE VIDA ",
+    "CursoId": null
+  },
+  {
+    "Id": "81",
+    "Nome": "PSIC. APL. A ENFERM.",
+    "CursoId": null
+  },
+  {
+    "Id": "82",
+    "Nome": "BHE",
+    "CursoId": null
+  },
+  {
+    "Id": "83",
+    "Nome": "BE",
+    "CursoId": null
+  },
+  {
+    "Id": "84",
+    "Nome": "PES",
+    "CursoId": null
+  },
+  {
+    "Id": "85",
+    "Nome": "SAVS",
+    "CursoId": null
+  },
+  {
+    "Id": "86",
+    "Nome": "POL",
+    "CursoId": null
+  },
+  {
+    "Id": "87",
+    "Nome": "FHE",
+    "CursoId": null
+  },
+  {
+    "Id": "88",
+    "Nome": "ANATOMIA DOS SISTEMAS",
+    "CursoId": null
+  },
+  {
+    "Id": "89",
+    "Nome": "MRPS",
+    "CursoId": null
+  },
+  {
+    "Id": "90",
+    "Nome": "BASES DIAGNOSTICAS ",
+    "CursoId": null
+  },
+  {
+    "Id": "91",
+    "Nome": "ACPE",
+    "CursoId": null
+  },
+  {
+    "Id": "92",
+    "Nome": "FISIOL. SIT. REGULADOR",
+    "CursoId": null
+  },
+  {
+    "Id": "93",
+    "Nome": "EPIDEMIOLOGIA",
+    "CursoId": null
+  },
+  {
+    "Id": "94",
+    "Nome": "PCPSA",
+    "CursoId": null
+  },
+  {
+    "Id": "95",
+    "Nome": "PASM",
+    "CursoId": null
+  },
+  {
+    "Id": "96",
+    "Nome": "FAE",
+    "CursoId": null
+  },
+  {
+    "Id": "97",
+    "Nome": "ENF. FAMILIA",
+    "CursoId": null
+  },
+  {
+    "Id": "98",
+    "Nome": "PPCSAM",
+    "CursoId": null
+  },
+  {
+    "Id": "99",
+    "Nome": "PGSC",
+    "CursoId": null
+  },
+  {
+    "Id": "100",
+    "Nome": "PTCI",
+    "CursoId": null
+  },
+  {
+    "Id": "101",
+    "Nome": "ASQIS",
+    "CursoId": null
+  },
+  {
+    "Id": "102",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "103",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "104",
+    "Nome": "FUND. ENG. ECONOMIA",
+    "CursoId": null
+  },
+  {
+    "Id": "105",
+    "Nome": "PLANEJ. CONTR. PROD. ",
+    "CursoId": null
+  },
+  {
+    "Id": "106",
+    "Nome": "ENG. QUALIDADE",
+    "CursoId": null
+  },
+  {
+    "Id": "107",
+    "Nome": "PROG. LINEAR",
+    "CursoId": null
+  },
+  {
+    "Id": "108",
+    "Nome": "RACIONAL. TRABALHO ",
+    "CursoId": null
+  },
+  {
+    "Id": "109",
+    "Nome": "GESTÃO PRODUÇÃO",
+    "CursoId": null
+  },
+  {
+    "Id": "110",
+    "Nome": "PROJ. ELEM. MAQ. ",
+    "CursoId": null
+  },
+  {
+    "Id": "111",
+    "Nome": "MOD. NEG.ESTRUT. MERC.",
+    "CursoId": null
+  },
+  {
+    "Id": "112",
+    "Nome": "ECON. NAC. E INT. ",
+    "CursoId": null
+  },
+  {
+    "Id": "113",
+    "Nome": "PROJ. PRODUTO",
+    "CursoId": null
+  },
+  {
+    "Id": "114",
+    "Nome": "ENG. PROD. INT. ",
+    "CursoId": null
+  },
+  {
+    "Id": "115",
+    "Nome": "LOGÍSTICA",
+    "CursoId": null
+  },
+  {
+    "Id": "116",
+    "Nome": "EPIDEMIO SAUDE PUBLICA",
+    "CursoId": null
+  },
+  {
+    "Id": "117",
+    "Nome": "PRIMEIROS SOCORROS ",
+    "CursoId": null
+  },
+  {
+    "Id": "118",
+    "Nome": "BIOETICA EM SAÚDE",
+    "CursoId": null
+  },
+  {
+    "Id": "119",
+    "Nome": "PRATICAS ED. EM SAÚDE",
+    "CursoId": null
+  },
+  {
+    "Id": "120",
+    "Nome": "BIOSSEGURANÇA",
+    "CursoId": null
+  },
+  {
+    "Id": "121",
+    "Nome": "ECON. GESTÃO FARM. ",
+    "CursoId": null
+  },
+  {
+    "Id": "122",
+    "Nome": "POL. SAÚDE",
+    "CursoId": null
+  },
+  {
+    "Id": "123",
+    "Nome": "MATEM. APLIC. ",
+    "CursoId": null
+  },
+  {
+    "Id": "124",
+    "Nome": "FISIO QUIMICA",
+    "CursoId": null
+  },
+  {
+    "Id": "125",
+    "Nome": "FISIOPATOLOGIA",
+    "CursoId": null
+  },
+  {
+    "Id": "126",
+    "Nome": "FISIOLOGIA APLICADA",
+    "CursoId": null
+  },
+  {
+    "Id": "127",
+    "Nome": "QUIMICA ORGANICA",
+    "CursoId": null
+  },
+  {
+    "Id": "128",
+    "Nome": "FISIOPATOLOGIA",
+    "CursoId": null
+  },
+  {
+    "Id": "129",
+    "Nome": "IMUNOLOGIA",
+    "CursoId": null
+  },
+  {
+    "Id": "130",
+    "Nome": "BIOQ. ESTRUTURAL",
+    "CursoId": null
+  },
+  {
+    "Id": "131",
+    "Nome": "QUIM. FARM. ",
+    "CursoId": null
+  },
+  {
+    "Id": "132",
+    "Nome": "MICROBIOL./MICOL. CLINICA",
+    "CursoId": null
+  },
+  {
+    "Id": "133",
+    "Nome": "IMUNOLOGIA CLINICA",
+    "CursoId": null
+  },
+  {
+    "Id": "134",
+    "Nome": "FARMAC. APLIC.",
+    "CursoId": null
+  },
+  {
+    "Id": "135",
+    "Nome": "FARMACOTECNICA",
+    "CursoId": null
+  },
+  {
+    "Id": "136",
+    "Nome": "FARMACOGNOSA",
+    "CursoId": null
+  },
+  {
+    "Id": "137",
+    "Nome": "FUND. AÇÕES. COL. EM SAUDE",
+    "CursoId": null
+  },
+  {
+    "Id": "138",
+    "Nome": "CORP. MOTR. HUM. ",
+    "CursoId": null
+  },
+  {
+    "Id": "139",
+    "Nome": "BIOSSEGURANÇA",
+    "CursoId": null
+  },
+  {
+    "Id": "140",
+    "Nome": "PSICO. APL. A FISIO",
+    "CursoId": null
+  },
+  {
+    "Id": "141",
+    "Nome": "EVOL.HIST.FISIO",
+    "CursoId": null
+  },
+  {
+    "Id": "142",
+    "Nome": "SEMIOLO. APL. A FISIO",
+    "CursoId": null
+  },
+  {
+    "Id": "143",
+    "Nome": "FISIOL. SIST. REG. ",
+    "CursoId": null
+  },
+  {
+    "Id": "144",
+    "Nome": "BIOMECANICA",
+    "CursoId": null
+  },
+  {
+    "Id": "145",
+    "Nome": "ANATOMIA DOS SISTEMAS",
+    "CursoId": null
+  },
+  {
+    "Id": "146",
+    "Nome": "NEUROANATOMIA",
+    "CursoId": null
+  },
+  {
+    "Id": "147",
+    "Nome": "CINESIOLOGIA",
+    "CursoId": null
+  },
+  {
+    "Id": "148",
+    "Nome": "FISIO RESPIRATÓRIA",
+    "CursoId": null
+  },
+  {
+    "Id": "149",
+    "Nome": "CONTROL. MOTOR. NEUROSC.",
+    "CursoId": null
+  },
+  {
+    "Id": "150",
+    "Nome": "FISIO PEDIATRICA",
+    "CursoId": null
+  },
+  {
+    "Id": "151",
+    "Nome": "FISIO ORTOP. FUNCIONAL",
+    "CursoId": null
+  },
+  {
+    "Id": "152",
+    "Nome": "ELETROTERAPIA",
+    "CursoId": null
+  },
+  {
+    "Id": "153",
+    "Nome": "MEDIDAS E AVALIAÇÕES",
+    "CursoId": null
+  },
+  {
+    "Id": "154",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "155",
+    "Nome": "EPIDEMIOL. SAUDE PUBLICA",
+    "CursoId": null
+  },
+  {
+    "Id": "156",
+    "Nome": "PTCI",
+    "CursoId": null
+  },
+  {
+    "Id": "157",
+    "Nome": "FISIO APL. DEMATO FUNC.",
+    "CursoId": null
+  },
+  {
+    "Id": "158",
+    "Nome": "FISIO INTEGRADA",
+    "CursoId": null
+  },
+  {
+    "Id": "159",
+    "Nome": "NOÇÕES BAS FARM",
+    "CursoId": null
+  },
+  {
+    "Id": "160",
+    "Nome": "ERG. GIN LABOR.",
+    "CursoId": null
+  },
+  {
+    "Id": "161",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "162",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "163",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "164",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "165",
+    "Nome": "ESTÁGIO ",
+    "CursoId": null
+  },
+  {
+    "Id": "166",
+    "Nome": "EPIDEMIOLOGIA",
+    "CursoId": null
+  },
+  {
+    "Id": "167",
+    "Nome": "ANATOMIA DOS SISTEMAS",
+    "CursoId": null
+  },
+  {
+    "Id": "168",
+    "Nome": "MICROBIOL. ALIM.",
+    "CursoId": null
+  },
+  {
+    "Id": "169",
+    "Nome": "FISIOL. SIT. REG. ",
+    "CursoId": null
+  },
+  {
+    "Id": "170",
+    "Nome": "BIOQUIMICA",
+    "CursoId": null
+  },
+  {
+    "Id": "171",
+    "Nome": "TEC. DIETETICA",
+    "CursoId": null
+  },
+  {
+    "Id": "172",
+    "Nome": "TEC. INF. ",
+    "CursoId": null
+  },
+  {
+    "Id": "173",
+    "Nome": "EDUC. AMBIENTAL",
+    "CursoId": null
+  },
+  {
+    "Id": "174",
+    "Nome": "PSIC. CICLO VITAL",
+    "CursoId": null
+  },
+  {
+    "Id": "175",
+    "Nome": "HIST. EDUC. ",
+    "CursoId": null
+  },
+  {
+    "Id": "176",
+    "Nome": "POL. E ORG. ED. BASICA",
+    "CursoId": null
+  },
+  {
+    "Id": "177",
+    "Nome": "HIST. PENS. FILOS. ",
+    "CursoId": null
+  },
+  {
+    "Id": "178",
+    "Nome": "FILOSOFIA COM. E ETICA",
+    "CursoId": null
+  },
+  {
+    "Id": "179",
+    "Nome": "DID MET E MED. NORM",
+    "CursoId": null
+  },
+  {
+    "Id": "180",
+    "Nome": "ALFAB. E LETRAM.",
+    "CursoId": null
+  },
+  {
+    "Id": "181",
+    "Nome": "OPPI",
+    "CursoId": null
+  },
+  {
+    "Id": "182",
+    "Nome": "ARTE",
+    "CursoId": null
+  },
+  {
+    "Id": "183",
+    "Nome": "PSICOL. CONTRUT.",
+    "CursoId": null
+  },
+  {
+    "Id": "184",
+    "Nome": "SOCIOLOGIA EDUCAÇÃO",
+    "CursoId": null
+  },
+  {
+    "Id": "185",
+    "Nome": "ORIENT. SUP. ",
+    "CursoId": null
+  },
+  {
+    "Id": "186",
+    "Nome": "GESTÃO EDUC.",
+    "CursoId": null
+  },
+  {
+    "Id": "187",
+    "Nome": "ESTATÍSTICA",
+    "CursoId": null
+  },
+  {
+    "Id": "188",
+    "Nome": "ED. INCLUSIVA",
+    "CursoId": null
+  },
+  {
+    "Id": "189",
+    "Nome": "MET. PRAT. ENS. HIT. GEO",
+    "CursoId": null
+  },
+  {
+    "Id": "190",
+    "Nome": "BIOSSEGURANÇA",
+    "CursoId": null
+  },
+  {
+    "Id": "191",
+    "Nome": "BIOETICA / LEG. ",
+    "CursoId": null
+  },
+  {
+    "Id": "192",
+    "Nome": "PRIM. SOCORROS",
+    "CursoId": null
+  },
+  {
+    "Id": "193",
+    "Nome": "PSIC. APL. A ESTETICA",
+    "CursoId": null
+  },
+  {
+    "Id": "194",
+    "Nome": "HIST. EVOL. MASSAGEM ",
+    "CursoId": null
+  },
+  {
+    "Id": "195",
+    "Nome": "AVAL. DESMPENHO",
+    "CursoId": null
+  },
+  {
+    "Id": "196",
+    "Nome": "MOD. LIDERANÇA",
+    "CursoId": null
+  },
+  {
+    "Id": "197",
+    "Nome": "ADM CARGOS E SALARIOS ",
+    "CursoId": null
+  },
+  {
+    "Id": "198",
+    "Nome": "ETICA E LEG. ",
+    "CursoId": null
+  },
+  {
+    "Id": "199",
+    "Nome": "ECONOMIA E MERCADO ",
+    "CursoId": null
+  },
+  {
+    "Id": "200",
+    "Nome": "INSTITUIÇÕES DE DIREITO",
+    "CursoId": null
+  },
+  {
+    "Id": "201",
+    "Nome": "COMP. HUMANO NAS ORG.",
+    "CursoId": null
+  },
+  {
+    "Id": "202",
+    "Nome": "ADM. REL. CLIENTE",
+    "CursoId": null
+  },
+  {
+    "Id": "203",
+    "Nome": "CONT. CUSTOS",
+    "CursoId": null
+  },
+  {
+    "Id": "204",
+    "Nome": "ADM. FINANCEIRA",
+    "CursoId": null
+  },
+  {
+    "Id": "205",
+    "Nome": "ESTR. DEM. CONT.",
+    "CursoId": null
+  },
+  {
+    "Id": "206",
+    "Nome": "FEN. TRASNPORTE",
+    "CursoId": null
+  },
+  {
+    "Id": "207",
+    "Nome": "ELETR. BASICA",
+    "CursoId": null
+  },
+  {
+    "Id": "208",
+    "Nome": "CALC. FUNÇOES V. VARIAVEIS",
+    "CursoId": null
+  },
+  {
+    "Id": "209",
+    "Nome": "FUND. TERMOD. ",
+    "CursoId": null
+  },
+  {
+    "Id": "210",
+    "Nome": "EST. DESCRITIVA",
+    "CursoId": null
+  },
+  {
+    "Id": "211",
+    "Nome": "CIN. SOLIDOS",
+    "CursoId": null
+  },
+  {
+    "Id": "212",
+    "Nome": "TOPOGRAFIA",
+    "CursoId": null
+  },
+  {
+    "Id": "213",
+    "Nome": "MAT. NAT. ARTIF.",
+    "CursoId": null
+  },
+  {
+    "Id": "214",
+    "Nome": "RESIST. MATERIAIS ",
+    "CursoId": null
+  },
+  {
+    "Id": "215",
+    "Nome": "HIDRA HIDRO",
+    "CursoId": null
+  },
+  {
+    "Id": "216",
+    "Nome": "EAST",
+    "CursoId": null
+  },
+  {
+    "Id": "217",
+    "Nome": "QUIM. APLICADA ENG. CIVIL",
+    "CursoId": null
+  },
+  {
+    "Id": "218",
+    "Nome": "TEOR. ESTRUTURA",
+    "CursoId": null
+  },
+  {
+    "Id": "219",
+    "Nome": "SISTEMA ESTRUTURA",
+    "CursoId": null
+  },
+  {
+    "Id": "220",
+    "Nome": "ECA",
+    "CursoId": null
+  },
+  {
+    "Id": "221",
+    "Nome": "CAEC",
+    "CursoId": null
+  },
+  {
+    "Id": "222",
+    "Nome": "TEC. CONSTR.",
+    "CursoId": null
+  },
+  {
+    "Id": "223",
+    "Nome": "MAEC. SOL. FUND.",
+    "CursoId": null
+  },
+  {
+    "Id": "224",
+    "Nome": "ESTRADA E AEROPORTOS",
+    "CursoId": null
+  },
+  {
+    "Id": "225",
+    "Nome": "FUND. PROF. ",
+    "CursoId": null
+  },
+  {
+    "Id": "226",
+    "Nome": "INST. HIDRAUL.",
+    "CursoId": null
+  },
+  {
+    "Id": "227",
+    "Nome": "PONTES E ESTRUTURAS",
+    "CursoId": null
+  },
+  {
+    "Id": "228",
+    "Nome": "PTCI",
+    "CursoId": null
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "1",
+    "Nome": "ADMINISTRAÇÃO"
+  },
+  {
+    "Id": "2",
+    "Nome": "ARQUITETURA E URB."
+  },
+  {
+    "Id": "3",
+    "Nome": "BIOMEDICINA "
+  },
+  {
+    "Id": "4",
+    "Nome": "CIENCIA COMPUTAÇÃO"
+  },
+  {
+    "Id": "5",
+    "Nome": "DIREITO"
+  },
+  {
+    "Id": "6",
+    "Nome": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "Id": "7",
+    "Nome": "ENFERMAGEM"
+  },
+  {
+    "Id": "8",
+    "Nome": "ENGENHARIA PRODUÇÃO"
+  },
+  {
+    "Id": "9",
+    "Nome": "FARMÁCIA"
+  },
+  {
+    "Id": "10",
+    "Nome": "FISIOTERAPIA"
+  },
+  {
+    "Id": "11",
+    "Nome": "NUTRIÇÃO"
+  },
+  {
+    "Id": "12",
+    "Nome": "PEDAGOGIA"
+  },
+  {
+    "Id": "13",
+    "Nome": "CST ESTÉTICA ECOMETICA"
+  },
+  {
+    "Id": "14",
+    "Nome": "CST REC. HUMANOS"
+  },
+  {
+    "Id": "15",
+    "Nome": "CIÊNCIAS CONTÁBEIS"
+  },
+  {
+    "Id": "16",
+    "Nome": "ENGENHARIA CIVIL"
+  }
+]

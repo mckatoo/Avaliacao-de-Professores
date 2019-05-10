@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/Dados.csproj": {}
+  },
+  "projects": {
+    "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/Dados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/Dados.csproj",
+        "projectName": "Dados",
+        "projectPath": "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/Dados.csproj",
+        "packagesPath": "/home/mckatoo/.nuget/packages/",
+        "outputPath": "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mckatoo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/Dominio.csproj": {
+                "projectPath": "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "microsoft.entityframeworkcore.proxies": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "microsoft.entityframeworkcore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "microsoft.extensions.logging.console": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/Dominio.csproj",
+        "packagesPath": "/home/mckatoo/.nuget/packages/",
+        "outputPath": "/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/mckatoo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

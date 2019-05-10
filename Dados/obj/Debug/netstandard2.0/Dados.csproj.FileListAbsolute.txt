@@ -1,0 +1,12 @@
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/bin/Debug/netstandard2.0/Dados.deps.json
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/bin/Debug/netstandard2.0/Dados.dll
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/bin/Debug/netstandard2.0/Dados.pdb
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/Debug/netstandard2.0/Dados.csprojAssemblyReference.cache
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/Debug/netstandard2.0/Dados.csproj.CoreCompileInputs.cache
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/Debug/netstandard2.0/Dados.AssemblyInfoInputs.cache
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/Debug/netstandard2.0/Dados.AssemblyInfo.cs
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/Debug/netstandard2.0/Dados.dll
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/Debug/netstandard2.0/Dados.pdb
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/bin/Debug/netstandard2.0/Dominio.dll
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/bin/Debug/netstandard2.0/Dominio.pdb
+/media/ARQUIVOS/COMMON/PROJETOS/Avaliacao de Professores/Dados/obj/Debug/netstandard2.0/Dados.csproj.CopyComplete

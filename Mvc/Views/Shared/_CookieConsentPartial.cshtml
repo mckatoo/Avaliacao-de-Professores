@@ -1,0 +1,27 @@
+﻿@using Microsoft.AspNetCore.Http.Features
+
+@{
+    var consentFeature = Context.Features.Get<ITrackingConsentFeature>();
+    var showBanner = !consentFeature?.CanTrack ?? false;
+    var cookieString = consentFeature?.CreateConsentCookie();
+}
+
+@if (showBanner)
+{
+    <div id="cookieConsent" class="alert alert-info alert-dismissible fade show" role="alert">
+        A finalidade desta página é elucidar quais informações são coletadas dos usuários de nossas plataformas digitais, bem como a destinação e manipulação dos dados coletados.
+A UNIP EAD informa que sua política de privacidade se aplica a todos os serviços fornecidos em sua plataforma. Contudo, tal política não abrange as práticas de informações de outras organizações que anunciam nossos serviços e que podem usar cookies, pixels, tags e outras tecnologias para oferecer anúncios.
+         <a asp-area="" asp-controller="Home" asp-action="Privacy">Leia Mais</a>.
+        <button type="button" class="accept-policy close" data-dismiss="alert" aria-label="Close" data-cookie-string="@cookieString">
+            <span aria-hidden="true">Aceitar</span>
+        </button>
+    </div>
+    <script>
+        (function () {
+            var button = document.querySelector("#cookieConsent button[data-cookie-string]");
+            button.addEventListener("click", function (event) {
+                document.cookie = button.dataset.cookieString;
+            }, false);
+        })();
+    </script>
+}

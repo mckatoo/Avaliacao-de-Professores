@@ -1,0 +1,44 @@
+@model IEnumerable<Dominio.Entidades.Disciplina>
+
+<h2>Todas Disciplinas</h2>
+
+<a href="/Disciplina/Salvar" class="btn btn-primary">Nova Disciplina</a><p>
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Nome</th>
+                    <th>Professores</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>
+              @{int i = 1;
+                foreach (var d in @item.Professores)
+                {
+                  if (i > 1)
+                    {
+                      <br>
+                    }
+                  @d.Professor.Nome
+                  i++;
+                }
+              }
+            </td>
+                    <td class="text-right">
+                        <a class="btn btn-primary" href="/Disciplina/Editar/@item.Id">Editar</a>
+                        <a class="btn btn-danger" href="/Disciplina/Apagar/@item.Id">Apagar</a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
